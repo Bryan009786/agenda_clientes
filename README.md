@@ -195,7 +195,4 @@ Aqui vão algumas sugestões de melhorias:
 🎨 Melhorias visuais com cores e ícones
 
 🛠️ Desenvolvido por BRYAN EDUARDO
-"# agenda_clientes" 
-"# agenda_clientes" 
-"# agenda_clientes" 
-"# agenda_clientes" 
+
